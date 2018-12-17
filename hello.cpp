@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-  cout << "hello github" << endl;
+  cout << "hello github , i am in windows" << endl;
   return 1;
 }
